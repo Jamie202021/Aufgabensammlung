@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Aufgabe 1/Aufgabe 1.csproj" />
+  <Project Path="Aufgabe 2/Aufgabe 2.csproj" />
+  <Project Path="Aufgabe 3/Aufgabe 3.csproj" Id="45312ede-fca1-4929-aaa2-a303691d37c1" />
+  <Project Path="Aufgabe 4/Aufgabe 4.csproj" Id="84327edf-0d56-48f3-9506-c63158e99436" />
+  <Project Path="Aufgabe 5/Aufgabe 5.csproj" Id="71ba0fee-5941-4c1e-8b22-7dfbd6f7a321" />
+  <Project Path="Tag 1/Tag 1.csproj" />
+</Solution>
